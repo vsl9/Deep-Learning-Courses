@@ -1,6 +1,6 @@
 # Deep Learning Courses
 
-List of publicly available materials of courses on Deep Learning
+List of publicly available materials of Deep Learning courses
 
 Course | University | Lecturer | Year | Links
 ------ | ---------- | -------- | ---- | -----
